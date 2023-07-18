@@ -2,12 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sarath?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sarath06787204)
 
-## I'm a Android Developer
+## I'm a Full-Stack Engineer
 
-- 🔭 I just launched my first project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop and gym 
 - 📧 How to reach me: sarath1242000@gmail.com
 
